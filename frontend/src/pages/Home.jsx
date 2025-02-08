@@ -5,8 +5,8 @@ import LatestCollection from '../components/LatestCollection'
 const home = () => {
     return (
         <div>
-            <LatestCollection />
             <Hero />
+            <LatestCollection />
         </div>
     )
 }
